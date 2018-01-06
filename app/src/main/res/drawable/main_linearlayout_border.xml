@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" />
+    <stroke android:width="1px" android:color="#9e9e9e" />
+    <padding android:left="3dp" android:right="3dp"  />
+</shape>
+<!--
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    &lt;!&ndash; 连框颜色值 &ndash;&gt;
+    <item>
+        <shape>
+            <solid android:color="#000000" />
+        </shape>
+    </item>
+    &lt;!&ndash; 主体背景颜色值 &ndash;&gt;
+    <item android:bottom="1dp"> &lt;!&ndash;设置只有底部有边框&ndash;&gt;
+        <shape>
+            <solid android:color="#616161" />
+        </shape>
+    </item>
+    <item android:left="0.5dp"> &lt;!&ndash;设置只有底部有边框&ndash;&gt;
+        <shape>
+            <solid android:color="#616161" />
+        </shape>
+    </item>
+    <item android:right="1dp"> &lt;!&ndash;设置只有底部有边框&ndash;&gt;
+        <shape>
+            <solid android:color="#616161" />
+        </shape>
+    </item>
+    <item android:top="1dp"> &lt;!&ndash;设置只有底部有边框&ndash;&gt;
+        <shape>
+            <solid android:color="#616161" />
+        </shape>
+    </item>
+</layer-list>-->
